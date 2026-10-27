@@ -1,0 +1,12 @@
+{
+  "theme": "cyberpunk cityscape",
+  "prompt": "cyberpunk cityscape, vivid style, hyper-real and dramatic with bold saturated colors",
+  "revised_prompt": null,
+  "model": "openai/gpt-image-2.5-flare",
+  "size": "1024x1536",
+  "aspect_ratio": "2:3",
+  "style": "vivid",
+  "quality": "low",
+  "created_at": "2026-10-26T18:09:14.451Z",
+  "file": "images/cyberpunk-cityscape_gpt-image-2.5-flare_portrait_vivid.png"
+}

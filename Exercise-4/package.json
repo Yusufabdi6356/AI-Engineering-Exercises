@@ -1,0 +1,19 @@
+{
+  "name": "exercise-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --use-system-ca index.js",
+    "warmup": "node --use-system-ca warmup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "openai": "^7.44.0"
+  }
+}

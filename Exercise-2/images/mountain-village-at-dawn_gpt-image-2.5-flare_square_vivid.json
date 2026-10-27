@@ -1,0 +1,12 @@
+{
+  "theme": "mountain village at dawn",
+  "prompt": "mountain village at dawn, vivid style, hyper-real and dramatic with bold saturated colors",
+  "revised_prompt": null,
+  "model": "openai/gpt-image-2.5-flare",
+  "size": "1024x1024",
+  "aspect_ratio": "1:1",
+  "style": "vivid",
+  "quality": "low",
+  "created_at": "2026-10-27T10:45:22.595Z",
+  "file": "images/mountain-village-at-dawn_gpt-image-2.5-flare_square_vivid.png"
+}

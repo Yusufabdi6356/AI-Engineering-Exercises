@@ -1,0 +1,12 @@
+{
+  "theme": "mountain village at dawn",
+  "prompt": "mountain village at dawn, natural style, realistic with soft lighting and true-to-life colors",
+  "revised_prompt": null,
+  "model": "openai/gpt-image-2",
+  "size": "1536x864",
+  "aspect_ratio": "16:9",
+  "style": "natural",
+  "quality": "low",
+  "created_at": "2026-10-27T10:47:14.270Z",
+  "file": "images/mountain-village-at-dawn_gpt-image-2_landscape_natural.png"
+}
